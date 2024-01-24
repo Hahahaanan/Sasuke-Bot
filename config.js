@@ -8,21 +8,21 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['201114329294', '❤️‍🔥ITACHI❤️‍🔥', true],
-  ['201114329294', 'ITACHI', true],
-  ['201114329294', '❤️‍🔥ITACHI❤️‍🔥', true],
-  ['201114329294', 'ITACHI', true],
- ['201114329294', '❤️‍🔥ITACHI❤️‍🔥', true],
+  ['97474727015', '𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️', true],
+  ['97474727015', '𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️', true],
+  ['97474727015', '❤𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️', true],
+  ['97474727015', '𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️', true],
+ ['97474727015', '❤𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️', true],
 ]
 
-global.suittag = ['201114329294'] 
-global.prems = ['201114329294', '201114329294'] 
-global.reportes_solicitudes = ['201114329294']
+global.suittag = ['97474727015'] 
+global.prems = ['97474727015', '97474727015'] 
+global.reportes_solicitudes = ['97474727015']
 
-global.packname = '『𝐬𝐚𝐬𝐮𝐤𝐞 𝐛𝐨𝐭 🩸』'
-global.author = '『 𝐬𝐚𝐬𝐮𝐤𝐞 𝐛𝐨𝐭 🩸 』'
-global.wm = '『 𝐬𝐚𝐬𝐮𝐤𝐞 𝐛𝐨𝐭 🩸 』'
-global.igfg = '『 𝐬𝐚𝐬𝐮𝐤𝐞 𝐛𝐨𝐭 🩸 』'
+global.packname = '『𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️』'
+global.author = '『 𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️ 』'
+global.wm = '『 𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️ 』'
+global.igfg = '『 𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️ 』'
 global.wait = '*[❗] يا مستخدم انتظر لحظه...*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
@@ -42,9 +42,9 @@ global.mes = d.toLocaleDateString('es', { month: 'long' })
 global.año = d.toLocaleDateString('es', { year: 'numeric' })
 global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true })
 //*****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 『 𝐬𝐚𝐬𝐮𝐤𝐞 𝐛𝐨𝐭 🩸 』`
-global.gt = '『 𝐬𝐚𝐬𝐮𝐤𝐞 𝐛𝐨𝐭 🩸 』'
-global.mysticbot = '『 𝐬𝐚𝐬𝐮𝐤𝐞 𝐛𝐨𝐭 🩸 』'
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 『 𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️ 』`
+global.gt = '『 𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️ 』'
+global.mysticbot = '『 𝙹𝙾𝙽 𝚂𝙽𝙾𝚆 𝙱𝙾𝚃 🛡️ 』'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
